@@ -14,3 +14,4 @@
 * Ya le encontré el uso al md.
 * Me he peleado con Inteliji e Inteliji ha ganado (También con VSC y también ha ganado VSC).
 * No entiendo cómo poner el jdk en los proyectos que cargo ni en VSC ni en Inteliji.
+* Quería terminar al menos una práctica nueva pero no puedo, ni por la parte de la documentación ni por la parte de GitHub
