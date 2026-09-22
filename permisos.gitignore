@@ -1,0 +1,18 @@
+# ignoreContrasenias
+.env
+*.key
+*.pem
+
+# ignoreConfiguracionLocal
+*.local
+
+# ignoreFicherosTemporales
+temp/
+tmp/
+*.tmp
+*.temp
+
+# ignoreBinarios
+bin/
+*.exe
+*.dll
