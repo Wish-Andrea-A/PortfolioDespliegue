@@ -9,3 +9,8 @@
 2. [Hacer lo más parecido al ejemplo en un documento de md](https://github.com/Wish-Andrea-A/PortfolioDespliegue/blob/main/EjerciciosUD1/PracticaChiquito.md)
 3. [Creación de cuenta de Github](https://github.com/Wish-Andrea-A/PortfolioDespliegue/blob/main/EjerciciosUD1/Pr%C3%A1ctica%20de%20GitHub.pdf)
 ## 22 de Septiembre de 2026
+* He aprendido a poner Javadoc simple en un proyecto de Java y a identificarlo.
+* He aprendido qué es gitignore y su uso.
+* Ya le encontré el uso al md.
+* Me he peleado con Inteliji e Inteliji ha ganado (También con VSC y también ha ganado VSC).
+* No entiendo cómo poner el jdk en los proyectos que cargo ni en VSC ni en Inteliji.
